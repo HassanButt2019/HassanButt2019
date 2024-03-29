@@ -1,5 +1,5 @@
 # 💫 About Me:
-😄 Pronouns: He/His<br>🔭 I’m currently working at DFKI as Junior Software Developer <br>🌱 I’m currently learning technologies related to Web development.<br>👯 I’m looking to collaborate on Github<br>💬 Ask me about Flutter or any tech-related stuff.<br>📫 How to reach me: Check the social links below.
+😄 Pronouns: He/His<br>🔭 I’m currently working at DFKI as Junior Software Developer br>👯 I’m looking to collaborate on Github<br>💬 Ask me about Flutter or any tech-related stuff.<br>📫 How to reach me: Check the social links below.
 
 
 ## 🌐 Socials:
